@@ -1,0 +1,22 @@
+{
+  "name": "rate_limiting_with_bluebirdJS",
+  "version": "1.0.0",
+  "description": "Using the Bluebird JS promises library to simulate rate limited calls for an array of items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedrakib/rate_limiting_with_bluebirdJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedrakib/rate_limiting_with_bluebirdJS/issues"
+  },
+  "homepage": "https://github.com/syedrakib/rate_limiting_with_bluebirdJS#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
